@@ -2,5 +2,11 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{000486F6-08D8-2B5C-908B-FB7AD9498C6E}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		}
+	]
 }
