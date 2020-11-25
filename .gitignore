@@ -76,3 +76,23 @@ DerivedDataCache/*
 
 #uproject
 thirdPersonGame.uproject
+
+# Linux Build
+.kdev4/*
+.vscode/*
+Makefile
+CMakeList.txt
+thirdPersonGame.uproject
+
+thirdPersonGameConfig.pri
+thirdPersonGameDefines.pri
+thirdPersonGameHeader.pri
+thirdPersonGameIncludes.pri
+thirdPersonGameSource.pri
+thirdPersonGameCodeLitePreProcessor.txt
+thirdPersonGameCodeCompletionFolders.txt
+thirdPersonGame.workspace
+thirdPersonGame.pro
+thirdPersonGame.kdev4
+thirdPersonGame.code-workspace
+CMakeLists.txt
